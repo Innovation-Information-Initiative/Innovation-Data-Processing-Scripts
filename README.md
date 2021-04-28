@@ -30,5 +30,9 @@ Each separate folder here contains a repository of data processing scripts (or, 
 ## Scholarly + scientific data
 * S2AND: [Semantic Scholar author disambiguation](https://github.com/allenai/S2AND)
 
+## Benchmarks and other meta-datasets
+* [Alaska](https://arxiv.org/abs/2101.11259): A data pipeline benchmark, with profiling data
+ 
 ## Other (to review)
+* the [Allen NLP Guide](https://github.com/allenai/allennlp-guide) - general-purpose
 * linked-uspto-patent-data (rdf), forward43 (social innovation)
