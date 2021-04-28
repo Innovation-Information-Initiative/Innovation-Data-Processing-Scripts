@@ -27,5 +27,8 @@ Each separate folder here contains a repository of data processing scripts (or, 
 ## Graph visualizations
 * Gephi ([Lens example](https://www.pauloldham.net/gephi_patent_network/))
 
-## Other
-* forward43 (social innovation)
+## Scholarly + scientific data
+* S2AND: [Semantic Scholar author disambiguation](https://github.com/allenai/S2AND)
+
+## Other (to review)
+* linked-uspto-patent-data (rdf), forward43 (social innovation)
