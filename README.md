@@ -1,13 +1,13 @@
 # I3 Shared Data Processing Scripts
 
 This is shared repository for data processing scripts, with a focus on innovation-related data. 'Processing' in this context could refer to a number of different operations, including (but not limited to):
-	* normalisation
-	* disambiguation and entity reconciliation
-	* web scraping
-	* parsing web-scraped data
-	* transformation/merging different datasets together
-	* standardising datasets
-	* deduplication 
+* normalisation
+* disambiguation and entity reconciliation
+* web scraping
+* parsing web-scraped data
+* transformation/merging different datasets together
+* standardising datasets
+* deduplication 
 If you have some code you'd like to submit, please read our [contribution guidelines](./contributing.md), and make a pull request using a [pull request template](./docs/pull_request_template).
 
 ## Using the code
