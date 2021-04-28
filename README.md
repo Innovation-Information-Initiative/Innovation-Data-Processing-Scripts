@@ -10,11 +10,9 @@ This is shared repository for data processing scripts, with a focus on innovatio
 * standardising datasets
 * deduplication 
 
-If you have some code you'd like to submit, please read our [contribution guidelines](./contributing.md), and make a pull request using a [pull request template](./docs/pull_request_template).
-
 ## Adding to the catalog 
 
-Add scripts you use to this readme.  If they have their own repository, link to it there; if not, add it to the appropriate folder or create a new one for it.
+If you'd like to link some data processing scripts, or upload some, please take a look at our [contribution guidelines](./contributing.md), and make a pull request using a [pull request template](./docs/pull_request_template).
 
 ## Using code from this repository
 
