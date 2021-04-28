@@ -12,7 +12,7 @@ This is shared repository for data processing scripts, with a focus on innovatio
 
 ## Adding to the catalog 
 
-If you'd like to link some data processing scripts, or upload some, please take a look at our [contribution guidelines](./contributing.md), and make a pull request using a [pull request template](./docs/pull_request_template).
+If you'd like to link some data processing scripts, or upload some, please take a look at our [contribution guidelines](./contributing.md), and make a pull request using a [pull request template](./docs/pull_request_template). Links to external repositories are added below; uploaded scripts get their own folder.
 
 ## Using code from this repository
 
