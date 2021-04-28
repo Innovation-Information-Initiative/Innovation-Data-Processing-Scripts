@@ -1,11 +1,11 @@
 # How to contribute
 
-Thanks for wanting to contribute code to the I3 shared data cleaning scripts repository! The focus of this repository is scripts used broadly on innovation data, but if you have general scripts too feel free to add them. These aren't strict guidelines, and we'll accept submissions in any format -- but the better documented the code you submit is, the more likely it is to be used and shared.
+Thanks for wanting to contribute code to the I3 shared data processing scripts repository! The focus of this repository is scripts used broadly on innovation data, but if you have general scripts too feel free to add them. These aren't strict guidelines, and we'll accept submissions in any format -- but the better documented the code you submit is, the more likely it is to be used and shared.
 
 This repository is for 2 different kinds of contribution:
 
 * **link to an external repository: (recommended)** you or someone else have your code hosted on GitHub, and you'd like to link it. This option is recommended anyway, but it's particularly important if you plan to update your code regularly, you plan to maintain the code, or you're submitting code that's maintained by someone else.
-* **the cleaning scripts/files themselves:** you'd like to host your code in this repository, and it doesn't live publicly anywhere else. You could choose this option if you're not planning to change the code at all, and would like us to look after it
+* **the scripts/files themselves:** you'd like to host your code in this repository, and it doesn't live publicly anywhere else. You could choose this option if you're not planning to change the code at all, and would like us to look after it
 
 ## Instructions
 
@@ -14,7 +14,8 @@ This repository accepts contributions in the form of pull requests. If you've no
 * create a new folder for your script, or linked script
 	* if you are submitting a link to an external repository, this will contain:
 		* a README, which should contain a link to the external repository, and contain information about:
-			* the authors
+			* a description of what this code is for
+			* information about who wrote the code, and who maintains it
 			* the license of the code
 			* which dataset this is intended to run on
 			* how to reference the script
@@ -38,8 +39,4 @@ In all cases, your pull request should:
 
 This is *not* the place to submit:
 * datasets themselves (instead, add them to our [Innovation Datasets Index](https://docs.google.com/spreadsheets/d/1bdyhGrj0oNz-_qW3Rv2GNGqhZZ73rgj-DYWePLA_1Ms/edit#gid=1389884911))
-* data cleaning scripts that are specific to *non* innovation-related datasets (though general cleaning scripts that you have found useful for general data workflows are invited)
-
-
-
-
+* data processing scripts that are specific to *non* innovation-related datasets (though general scripts that you have found useful for data workflows are warmly invited)
